@@ -9,8 +9,6 @@
 
 </head>
 <body>
-<br>
-
 <div class="flex-wrap" style="display: flex; margin-top: 0;">
 		<!-- Nav pills -->
    		<ul class="nav nav-pills flex-column" role="tablist" style="background-color: #151515; min-width: 250px;  min-height: 100vh;">
